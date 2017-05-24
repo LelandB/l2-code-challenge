@@ -1,13 +1,12 @@
 # Leland Bernstein's Submission for the L2 Challenge
 
 ## Run (requires npm)
-open a command window to the parent directory l2challenge-react
-run npm start
+Open a command window to the parent directory l2challenge-react and type 'npm start'
 
 ### Added modules: 
-  *jquery for react (not for DOM manipulation purposes)
-  *react-bootstrap
-  *react-bootstrap-table
+- jquery for react (not for DOM manipulation purposes)
+- react-bootstrap
+- react-bootstrap-table
   
 
 While you can add multiple items to localStorage, you can only delete
